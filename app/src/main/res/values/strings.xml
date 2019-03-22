@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">rekentuin</string>
+    <string name="tafel">com.example.rekentuin.tName</string>
 </resources>

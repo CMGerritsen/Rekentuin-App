@@ -9,7 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".tafeltoetsen"></activity>
+        <activity android:name=".tafeltoetsen11tm20"></activity>
+        <activity android:name=".toetsen11tm20" />
+        <activity android:name=".tafelsoefenen11tm20" />
+        <activity android:name=".Oefenen11tm20" />
+        <activity android:name=".tafeltoetsen" />
         <activity android:name=".tafelsoefenen" />
         <activity android:name=".Toetsen" />
         <activity android:name=".Oefenen" />
