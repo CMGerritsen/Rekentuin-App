@@ -31,7 +31,7 @@ public class toetsen11tm20 extends AppCompatActivity {
         setContentView(R.layout.activity_toetsen11tm20);
 
         SharedPreferences prefs = getSharedPreferences(MY_PREFS_NAME2, MODE_PRIVATE);
-        if (prefs.contains("tafel11")) {
+        if (prefs.contains("tafel")) {
 
             if (prefs.contains("tafel11")) {
                 String getTafel = prefs.getString("tafel11", "");
